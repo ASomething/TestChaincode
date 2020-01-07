@@ -1,4 +1,4 @@
-package blacklistedImports
+package main
 
 import (
 	"encoding/json"
